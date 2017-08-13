@@ -13,6 +13,6 @@ Very short list todo:
 * Support for ADS1015 (12bit ADC)
 
 # Class interface:
-See: (ads1x15.md)
+See: [ads1x15.md](ads1x15.md)
 
 # EOF
